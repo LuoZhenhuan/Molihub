@@ -10,9 +10,6 @@ import service.impl.LabelServiceImpl;
 public class LabelTest {
     public static void main(String[] args) {
         LabelService ls = new LabelServiceImpl();
-//        System.out.println(ls.getLabel("测试",1));
-
-//        System.out.println(ls.getArticleLabel(558));
         ls.updateLabel("二","2",41);
     }
 }
