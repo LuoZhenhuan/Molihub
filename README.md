@@ -3,7 +3,7 @@ Molihub 技术社区-程序猿的学习交流平台
 ### Welcome to Molihub !
 > 骐骥一跃，不能十步；驽马十驾，功在不舍。——《荀子》
 
-##### Molihub 是一个开源的论坛博客系统,源码已上传至[Github](https://github.com/xuewei33/Molihub/tree/master/Molihub "Github")
+##### Molihub 是一个开源的论坛博客系统,源码已上传至[Github](https://github.com/373675032/Molihub "Github")
 Molihub的第一版本是[莫提论坛](https://github.com/373675032/Forum "莫提论坛").Molihub可以说是莫提论坛的升级和优化,功能相比莫提论坛有增有减,由于时间关系,没有完全实现莫提论坛的功能,但在文章分类,管理上面进行了很大的优化.从第一代到第二代的升级和代码重构,使得项目结构更清晰整洁.
 ### [演示视频](https://www.bilibili.com/video/av70208129 "演示视频")
 ### 功能介绍如下:
